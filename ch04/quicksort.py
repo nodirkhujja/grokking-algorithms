@@ -1,4 +1,3 @@
-
 def quicksort(array):
     if len(array) < 2:
         return array  # base case: arrays with 0 or 1 element are already "sorted"
